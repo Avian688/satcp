@@ -1,0 +1,3 @@
+package satcp;
+
+@license(LGPL);
