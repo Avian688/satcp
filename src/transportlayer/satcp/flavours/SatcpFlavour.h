@@ -5,7 +5,7 @@
 //
 
 #ifndef SATCP_TRANSPORTLAYER_TCP_FLAVOURS_SATCPFLAVOUR_H_
-#define SATCP_TRANSPORTLAYER_TCP_FLAVOURS_SATCPFLAVAVOUR_H_
+#define SATCP_TRANSPORTLAYER_TCP_FLAVOURS_SATCPFLAVOUR_H_
 
 #include "../../../../../cubic/src/transportlayer/tcp/flavours/TcpCubic.h"
 #include <vector>
