@@ -28,7 +28,7 @@ PROJECTRELATIVE_PATH = src
 O = $(PROJECT_OUTPUT_DIR)/$(CONFIGNAME)/$(PROJECTRELATIVE_PATH)
 
 # Object files for local .cc, .msg and .sm files
-OBJS = $O/transportlayer/tcp/flavours/Satcp.o
+OBJS = $O/transportlayer/satcp/Satcp.o $O/transportlayer/satcp/flavours/SatcpFlavour.o
 
 # Message files
 MSGFILES =
